@@ -7,8 +7,5 @@ This is the sixth line
 Added 7th line on main branch
 This is the 9th line
 <<<<<<< HEAD
+<<<<<<< HEAD
 made another line in new branch
-For practice
-=======
-hello hello
->>>>>>> dcfdaac90156f3d40d235037971b03fae70d5d06
