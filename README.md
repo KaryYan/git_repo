@@ -6,6 +6,7 @@ This is the fifth line
 This is the sixth line
 Added 7th line on main branch
 This is the 9th line
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 made another line in new branch
+
+hahaha
